@@ -1,0 +1,7 @@
+path: C:\Users\javie\OneDrive\Desktop\YOLOv8Train\data #dataset root directory
+train: images\train # train images (relative to path above)
+val: images\train # validation images (relative to path above)
+
+# Classes
+names:
+ 0: OpenParkingSpace
