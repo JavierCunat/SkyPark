@@ -135,3 +135,11 @@ data/obj_train_data/kimage57.jpg
 data/obj_train_data/kimage59.jpg
 data/obj_train_data/kimage60.jpg
 data/obj_train_data/kimage61.jpg
+data/obj_train_data/anything (1).jpg
+data/obj_train_data/anything (2).jpg
+data/obj_train_data/anything (3).jpg
+data/obj_train_data/anything (4).jpg
+data/obj_train_data/anything (5).jpg
+data/obj_train_data/anything (6).jpg
+data/obj_train_data/anything (7).jpg
+data/obj_train_data/anything (8).jpg
